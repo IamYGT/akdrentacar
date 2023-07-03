@@ -1,0 +1,284 @@
+[18-Jan-2020 12:13:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/akdrentacar/public_html/test/araclarimiz.php on line 54
+[18-Jan-2020 14:13:22 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/rezervasyon.php on line 7
+[18-Jan-2020 14:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/akdrentacar/public_html/test/admin/include/db.php:92
+Stack trace:
+#0 /home/akdrentacar/public_html/test/rezervasyon.php(83): dbcon->VeriOkuCoklu('lokasyonlar', Array, Array, 'row', 'ASC')
+#1 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/include/db.php on line 92
+[18-Jan-2020 14:13:30 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/rezervasyon.php on line 7
+[18-Jan-2020 14:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/akdrentacar/public_html/test/admin/include/db.php:92
+Stack trace:
+#0 /home/akdrentacar/public_html/test/rezervasyon.php(83): dbcon->VeriOkuCoklu('lokasyonlar', Array, Array, 'row', 'ASC')
+#1 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/include/db.php on line 92
+[18-Jan-2020 14:27:25 UTC] PHP Fatal error:  Uncaught Error: Class 'dbcon' not found in /home/akdrentacar/public_html/test/admin/include/site_db.php:5
+Stack trace:
+#0 /home/akdrentacar/public_html/test/surucu-bilgileri.php(1): include()
+#1 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/include/site_db.php on line 5
+[18-Jan-2020 14:39:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 8
+[18-Jan-2020 14:39:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 8
+[18-Jan-2020 14:44:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 12
+[18-Jan-2020 14:44:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 12
+[18-Jan-2020 14:45:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:45:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 12
+[18-Jan-2020 14:45:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 12
+[18-Jan-2020 14:45:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:45:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:45:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:45:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[18-Jan-2020 14:46:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 5
+[18-Jan-2020 14:46:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 5
+[18-Jan-2020 17:47:01 UTC] PHP Warning:  A non-numeric value encountered in /home/akdrentacar/public_html/test/ajax.php on line 14
+[18-Jan-2020 17:47:01 UTC] PHP Warning:  A non-numeric value encountered in /home/akdrentacar/public_html/test/ajax.php on line 14
+[18-Jan-2020 17:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function IsSMTP() in /home/akdrentacar/public_html/test/ajax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/ajax.php on line 18
+[18-Jan-2020 17:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function IsSMTP() in /home/akdrentacar/public_html/test/ajax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/ajax.php on line 18
+[18-Jan-2020 17:47:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isSMTP() in /home/akdrentacar/public_html/test/ajax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/ajax.php on line 18
+[18-Jan-2020 17:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isSMTP() in /home/akdrentacar/public_html/test/ajax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/ajax.php on line 18
+[18-Jan-2020 17:50:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/akdrentacar/public_html/test/ajax.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/ajax.php on line 21
+[18-Jan-2020 17:52:22 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/akdrentacar/public_html/test/admin/mailer/PHPMailer.php:2013
+Stack trace:
+#0 /home/akdrentacar/public_html/test/admin/mailer/PHPMailer.php(1844): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/akdrentacar/public_html/test/admin/mailer/PHPMailer.php(1587): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 18 J...', '\r\n\t\t<div>\r\n\t\t\t<...')
+#2 /home/akdrentacar/public_html/test/admin/mailer/PHPMailer.php(1423): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/akdrentacar/public_html/test/ajax.php(51): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/mailer/PHPMailer.php on line 2013
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 46
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 46
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 47
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 47
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 48
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 48
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 49
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 49
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 50
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 50
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/ajax.php on line 51
+[18-Jan-2020 21:04:23 UTC] PHP Notice:  Undefined variable: Array in /home/akdrentacar/public_html/test/ajax.php on line 51
+[18-Jan-2020 21:06:38 UTC] PHP Notice:  Undefined index: message in /home/akdrentacar/public_html/test/ajax.php on line 51
+[18-Jan-2020 21:07:52 UTC] PHP Notice:  Undefined index: message in /home/akdrentacar/public_html/test/ajax.php on line 51
+[19-Jan-2020 09:09:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:11:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:11:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:11:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:11:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:11:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 3
+[19-Jan-2020 09:12:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:12:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:14:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:15:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:36 UTC] PHP Fatal error:  Uncaught Error: Class 'dbcon' not found in /home/akdrentacar/public_html/test/admin/include/site_db.php:5
+Stack trace:
+#0 /home/akdrentacar/public_html/test/surucu-bilgileri.php(4): include()
+#1 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/include/site_db.php on line 5
+[19-Jan-2020 09:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:38 UTC] PHP Fatal error:  Uncaught Error: Class 'dbcon' not found in /home/akdrentacar/public_html/test/admin/include/site_db.php:5
+Stack trace:
+#0 /home/akdrentacar/public_html/test/surucu-bilgileri.php(4): include()
+#1 {main}
+  thrown in /home/akdrentacar/public_html/test/admin/include/site_db.php on line 5
+[19-Jan-2020 09:16:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getById() on null in /home/akdrentacar/public_html/test/surucu-bilgileri.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 19
+[19-Jan-2020 09:16:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getById() on null in /home/akdrentacar/public_html/test/surucu-bilgileri.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 19
+[19-Jan-2020 09:17:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 5
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 46
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 48
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/admin/include/db.php on line 50
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 46
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 48
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'counter' of non-object in /home/akdrentacar/public_html/test/admin/include/db.php on line 50
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: location_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: features in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 13
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 22
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 24
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 25
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'gun' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 30
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: featuresTotal in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 30
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 125
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 125
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 134
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 134
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: location in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 144
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'title' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 144
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: features in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 267
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 274
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'isim' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 275
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: location in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 276
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 276
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: location in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 277
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'title' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 277
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 279
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 280
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 281
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 282
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: location in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 311
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 311
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 312
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 313
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 314
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 315
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 316
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined variable: location in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 331
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 331
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 332
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 333
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 334
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 335
+[19-Jan-2020 09:17:17 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 336
+[19-Jan-2020 09:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 5
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 46
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 48
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/admin/include/db.php on line 50
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 46
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Array to string conversion in /home/akdrentacar/public_html/test/admin/include/db.php on line 48
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'counter' of non-object in /home/akdrentacar/public_html/test/admin/include/db.php on line 50
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: location_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 9
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 20
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 22
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 23
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'gun' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 28
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 122
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 122
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 131
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 131
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'title' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 141
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined variable: features in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 264
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: car_id in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 271
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'isim' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 272
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 273
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'title' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 274
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 276
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 277
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 278
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 279
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 308
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 309
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 310
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 311
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 312
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 313
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 328
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 329
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: departure_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 330
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_date in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 331
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Undefined index: arrival_time in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 332
+[19-Jan-2020 09:22:09 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 333
+[19-Jan-2020 09:22:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 09:29:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpheader() in /home/akdrentacar/public_html/test/surucu-bilgileri.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getById() on null in /home/akdrentacar/public_html/test/surucu-bilgileri.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 5
+[19-Jan-2020 09:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 09:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getById() on null in /home/akdrentacar/public_html/test/surucu-bilgileri.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 10:08:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 10:08:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 10:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 1
+[19-Jan-2020 10:12:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 10:12:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 3
+[19-Jan-2020 10:12:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 3
+[19-Jan-2020 10:12:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/surucu-bilgileri.php:1) in /home/akdrentacar/public_html/test/surucu-bilgileri.php on line 2
+[19-Jan-2020 10:32:56 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/akdrentacar/public_html/test/ek-ozellikler.php on line 3
+[19-Jan-2020 10:32:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akdrentacar/public_html/test/ek-ozellikler.php:1) in /home/akdrentacar/public_html/test/ek-ozellikler.php on line 2
+[19-Jan-2020 10:36:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/akdrentacar/public_html/test/rezervasyon.php on line 29
+[03-Feb-2020 13:17:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 59
+[03-Feb-2020 13:17:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 71
+[03-Feb-2020 13:17:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 59
+[03-Feb-2020 13:17:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 71
+[03-Feb-2020 13:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 59
+[03-Feb-2020 13:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 71
+[03-Feb-2020 13:44:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 59
+[03-Feb-2020 13:44:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 71
+[03-Feb-2020 13:44:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 59
+[03-Feb-2020 13:44:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/test/arac-detay.php on line 71
+[13-Feb-2020 15:20:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[13-Feb-2020 15:20:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[16-Feb-2020 20:28:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[16-Feb-2020 20:28:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[17-Feb-2020 08:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[17-Feb-2020 08:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[18-Feb-2020 19:27:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[18-Feb-2020 19:27:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[18-Feb-2020 21:53:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[18-Feb-2020 21:53:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[19-Feb-2020 19:44:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[19-Feb-2020 19:44:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[22-Feb-2020 00:58:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[22-Feb-2020 00:58:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[22-Feb-2020 14:48:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[22-Feb-2020 14:48:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[25-Feb-2020 06:11:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[25-Feb-2020 06:11:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[27-Feb-2020 18:11:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[27-Feb-2020 18:11:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[27-Feb-2020 21:30:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[27-Feb-2020 21:30:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[29-Feb-2020 05:38:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[29-Feb-2020 05:38:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[29-Feb-2020 20:57:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[29-Feb-2020 20:57:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[02-Mar-2020 09:11:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[02-Mar-2020 09:11:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[06-Mar-2020 19:01:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[06-Mar-2020 19:01:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[08-Mar-2020 01:12:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[08-Mar-2020 01:12:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[09-Mar-2020 06:58:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[09-Mar-2020 06:58:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[09-Mar-2020 22:13:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[09-Mar-2020 22:13:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
+[14-Mar-2020 13:50:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 59
+[14-Mar-2020 13:50:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/akdrentacar/public_html/arac-detay.php on line 71
